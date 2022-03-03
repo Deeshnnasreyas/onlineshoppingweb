@@ -1,0 +1,12 @@
+.parent{
+    width: 100%
+}
+.child{
+    padding: 10px;
+}
+.contentcontainer{
+    top: 100px;
+    left: 0;
+    right: 0;
+
+}
