@@ -5,8 +5,8 @@ import MainHeader from '../components/MainHeader'
 
 function Home() {
     return (
-        <div className='parent'>
-            <div className='child'>
+        <div className='homecontainer'>
+            <div className='homebody'>
                 <div>
                     <MainHeader />
                 </div>
